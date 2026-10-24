@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./banner.jpg" alt="Saad Khan — AI Student at IST Islamabad" width="100%">
+</p>
+
 # Hi, I'm Saad Khan 👋
 
 ### BS Artificial Intelligence Student | Python & C++ Developer 🚀
