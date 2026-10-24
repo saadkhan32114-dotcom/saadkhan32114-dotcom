@@ -28,7 +28,7 @@ To become an AI Engineer and build useful, intelligent solutions to real-world p
 
 ## 🤝 Connect With Me
 
-- GitHub: [@saadkhan123](https://github.com/saadkhan123)
+- GitHub: [@saadkhan123](https://github.com/saadkhan32114-dotcom)
 
 
 ⭐ Thanks for visiting my profile!
